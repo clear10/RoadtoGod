@@ -39,3 +39,15 @@ Thumbs.db
 *.log #log files, for some plugins
 *.pyc #python bytecode cache, for some plugins.
 sysinfo.txt #Unity3D Generated File On Crash Reports
+
+Assets/Elementals*
+Assets/Fonts*
+Assets/GamePlay*
+Assets/Ground textures pack*
+Assets/Picture*
+Assets/Resources*
+Assets/Materials*
+Assets/Sky FX Pack*
+Assets/sky5X*
+Assets/UnityChan*
+Assets/Water FX Pack*
